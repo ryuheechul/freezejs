@@ -2,33 +2,33 @@
 
 Aren't you annoyed by scrolling maps when you just want to scroll pages?
 
-freezejs freeze maps so maps will not bother you any more 
+freezejs freezes maps so they will not bother you any more 
 
 ## How to use
 
-- Add feeze.css and freeze.html on your html page.
+- Add freeze.css and freeze.html on your html page.
 
 - Add freezable class to your map elements.
 
 - Check out demo.html to see real example.
 
-- Currently this is jquery dependent. so you need jquery.
+- Currently this is jQuery dependent. so you need jQuery to use this.
 
 ## License
 
 MIT
 
-## Contibution
+## Contribution
 
-any contribution is welcome! please open a issue!
+Any contributions are welcome! please open a issue!
 
-## roadmap
+## Roadmap
 
-- no jquery needed.
+- no jQuery dependency.
 - one js file.
 - better readme.md.
 - working demo page.
-- github page.
+- website.
 - code and usability improvements.
 
 
