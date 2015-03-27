@@ -8,7 +8,7 @@ freezejs freezes maps so they will not bother you any more
 
 - Add freeze.css and freeze.html on your html page.
 
-- Add freezable class to your map elements.
+- Add "freezable" class to your map elements.
 
 - Check out demo.html to see real example.
 
